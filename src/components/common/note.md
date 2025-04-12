@@ -1,0 +1,1 @@
+- `src/components/common` - common reusable components

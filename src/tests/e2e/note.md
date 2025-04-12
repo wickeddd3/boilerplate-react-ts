@@ -1,0 +1,1 @@
+- `src/tests/e2e` - for e2e tests

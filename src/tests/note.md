@@ -1,0 +1,1 @@
+- `src/tests` - for anything tests related like unit and e2e tests

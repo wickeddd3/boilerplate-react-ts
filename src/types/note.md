@@ -1,0 +1,1 @@
+- `src/types` - for global types

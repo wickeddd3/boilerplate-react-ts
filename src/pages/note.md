@@ -1,0 +1,1 @@
+- `src/pages` - for app component pages

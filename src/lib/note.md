@@ -1,0 +1,1 @@
+- `src/lib` - for third party facades of different library

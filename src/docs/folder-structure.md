@@ -1,0 +1,22 @@
+## Folder Structure
+
+- `src` - main source code
+- `src/api` - code related to APIs
+- `src/assets` - for anything that isn't code related like images, fonts, etc.
+- `src/components` - for reusable components
+  - `src/components/layouts` - layout related components
+  - `src/components/common` - common reusable components
+- `src/config` - configuration files, such as env specific settings
+- `src/constants` - for constant values
+- `src/contexts` - for react context api related
+- `src/hooks` - for react custom hooks
+- `src/lib` - for third party facades of different library
+- `src/pages` - for app component pages
+- `src/router` - for app routes
+- `src/store` - for app state management
+- `src/styles` - for styling related files.
+- `src/tests` - for anything tests related like unit and e2e tests
+  - `src/tests/unit` - for unit tests
+  - `src/tests/e2e` - for e2e tests
+- `src/types` - for global types
+- `src/utils` - for reusable utility functions

@@ -1,0 +1,1 @@
+- `src/store` - for app state management

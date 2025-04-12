@@ -1,0 +1,1 @@
+- `src/components` - for reusable components

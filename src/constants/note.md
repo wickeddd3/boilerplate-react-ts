@@ -1,0 +1,1 @@
+- `src/constants` - for constant values
